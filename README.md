@@ -1,11 +1,8 @@
-> [!IMPORTANT]  
-> As of 06/02/24, Vendetta has been discontinued.
-
-# Vendetta
-A mod for Discord's mobile apps.
+# Johncord
+A mod for Discord's desktop & mobile apps.
 
 ## Installing
-Vendetta's codebase is platform-agnostic, but you need a platform-specific loader.
+Johncord's codebase is platform-agnostic, but you need a platform-specific loader.
 
 ### Android
 * Root - [VendettaXposed](https://github.com/vendetta-mod/VendettaXposed/releases/latest)
